@@ -1,7 +1,7 @@
-import Link from 'next/link'
-import logoImage from '@/assets/logo.png'
+import Link from 'next/link';
+import logoImage from '@/assets/logo.png';
 
-import styles from './main-header.module.css'
+import styles from './main-header.module.css';
 
 const MainHeader = () => {
     return (
@@ -21,7 +21,7 @@ const MainHeader = () => {
                 </ul>
             </nav>
         </header>
-    )
-}
+    );
+};
 
-export default MainHeader
+export default MainHeader;
