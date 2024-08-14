@@ -32,7 +32,7 @@ const SharePage = () => {
                     </div>
                     <p>
                         <label htmlFor="title">Title</label>
-                        <input type="text" id="title" name="title" required />
+                        <input type="text" id="title" name="title" />
                     </p>
                     <p>
                         <label htmlFor="summary">Short Summary</label>
